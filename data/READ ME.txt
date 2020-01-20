@@ -1,0 +1,19 @@
+Content of the Dataset, Folders: 
+Inside each folder there are two numbers: first number is the number of the folder and the second number is the subject's ID. 
+1_Indoor lights - cooperative  = there are videos of 62 subjects indoor and in cooperative way. 
+2_Indoor light - non cooperative = there are videos of 62 subjects indoor and in cooperative way. 
+3_Indoor flash - cooperative  = there are videos of 62 subjects indoor with light on and flash on, in cooperative way. 
+4_Indoor flash - non cooperative = there are videos of 62 subjects indoor with light on and flash on, in non cooperative way. 
+5_Outdoor - cooperative  = there are videos of 62 subjects outdoor in cooperative way. 
+6_Outdoor - non cooperative = there are videos of 62 subjects outdoor in non cooperative way. 
+7_180¡ head video =  there are videos of the face in 180¡ (from ear to ear) of 62 subjects.
+8_Stairs - cooperative = there are videos of 6 subjects climbing the stairs in 3 different angles with 3 different devices (A-B-C), in cooperative way.
+9_Stairs - non cooperative =  there are videos of 6 subjects climbing the stairs in 3 different angles with 3 different devices (A-B-C), in non cooperative way.
+10_Outdoor path - cooperative = there are videos of 12 subjects walking outdoor along a path in cooperative way. (iPhone)
+11_Outdoor path - non cooperative = there are videos of 12 subjects walking outdoor along a path in non cooperative way. (iPhone)
+12_Derived file attached = there are two tipes of folders (1) HPE_x where x = 1, 2, 3, ... 62.  (2) Landmarks
+
+(1) HPE_x folder contains the 3D model of the subject x and 2223 images with the head rotated in pitch, yaw and roll
+(2) Landmarks folder contains Body landmarks and face landmarks of 62 subjects in the videos 1, 2, 3, 4, 5, 6.
+
+

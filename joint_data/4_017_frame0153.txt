@@ -1,0 +1,19 @@
+
+49 93 0.46949 
+NaN 
+NaN 
+NaN 
+NaN 
+37 129 0.24885 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+44 82 0.63305 
+53 84 0.16946 
+16 72 0.36726 
+NaN 

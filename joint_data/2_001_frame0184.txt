@@ -1,0 +1,19 @@
+
+49 73 0.37917 
+NaN 
+NaN 
+NaN 
+NaN 
+61 126 0.32433 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+38 51 0.42981 
+59 56 0.44385 
+0 41 0.25227 
+NaN 

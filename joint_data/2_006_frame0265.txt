@@ -1,0 +1,19 @@
+
+37 67 0.56674 
+93 118 0.18498 
+57 115 0.33310 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+43 56 0.61130 
+NaN 
+70 57 0.53817 

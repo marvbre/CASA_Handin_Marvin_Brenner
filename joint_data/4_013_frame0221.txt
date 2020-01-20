@@ -1,0 +1,19 @@
+
+38 92 0.59440 
+77 127 0.29028 
+45 122 0.34628 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+42 84 0.61512 
+NaN 
+69 83 0.42719 

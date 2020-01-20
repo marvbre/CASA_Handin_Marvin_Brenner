@@ -1,0 +1,19 @@
+
+44 91 0.63775 
+84 130 0.18726 
+49 123 0.30882 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+49 83 0.67042 
+NaN 
+78 81 0.44536 

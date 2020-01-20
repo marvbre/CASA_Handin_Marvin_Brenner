@@ -1,0 +1,19 @@
+
+51 68 0.58182 
+36 133 0.20982 
+NaN 
+NaN 
+NaN 
+94 124 0.25516 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+28 53 0.43904 
+57 54 0.67624 
+NaN 
+NaN 

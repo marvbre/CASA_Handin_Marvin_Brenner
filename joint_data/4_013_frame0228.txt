@@ -1,0 +1,19 @@
+
+44 91 0.55092 
+82 130 0.18156 
+48 122 0.29633 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+49 83 0.60596 
+NaN 
+77 82 0.40427 

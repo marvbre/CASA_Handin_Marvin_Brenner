@@ -1,0 +1,19 @@
+
+NaN 
+18 130 0.24048 
+NaN 
+NaN 
+NaN 
+62 129 0.28925 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+0 65 0.29941 
+NaN 
+22 68 0.66505 

@@ -1,0 +1,19 @@
+
+36 67 0.65967 
+92 119 0.18074 
+55 116 0.35241 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+41 57 0.70996 
+NaN 
+69 57 0.53975 

@@ -1,0 +1,19 @@
+
+33 69 0.56326 
+90 120 0.19803 
+53 118 0.35430 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+39 59 0.61162 
+NaN 
+66 59 0.55945 

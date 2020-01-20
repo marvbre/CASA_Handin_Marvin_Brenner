@@ -1,0 +1,19 @@
+
+33 70 0.49821 
+88 121 0.23899 
+52 119 0.36823 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+38 61 0.60301 
+NaN 
+65 61 0.56408 

@@ -1,0 +1,19 @@
+
+32 71 0.55885 
+87 120 0.27513 
+53 119 0.37912 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+38 62 0.62916 
+NaN 
+65 62 0.53347 

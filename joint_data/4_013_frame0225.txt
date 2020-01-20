@@ -1,0 +1,19 @@
+
+41 91 0.74161 
+80 125 0.22637 
+48 121 0.36134 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+46 84 0.75531 
+NaN 
+73 82 0.40396 

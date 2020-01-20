@@ -1,0 +1,19 @@
+
+44 62 0.44477 
+NaN 
+NaN 
+NaN 
+NaN 
+53 108 0.35142 
+53 165 0.24234 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+NaN 
+32 41 0.47035 
+51 45 0.44113 
+NaN 
+NaN 
