@@ -1,4 +1,4 @@
-# CASA_Handin_Marvin_Brenner
+# CASA_Handin
  
 My handin  for the context-aware security analytics course at unisa in Salerno.
 The model of the 2d Pose estimation, as well as all the images are not included in the github, as it exceeds the size of the repository.
